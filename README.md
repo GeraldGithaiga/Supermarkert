@@ -1,0 +1,1 @@
+This project analyzes sales data to provide key performance indicators (KPIs) and insights about the store's performance. It covers the total income, number of orders, overall rating, order patterns, peak times, and a breakdown of gross income by various dimensions.
